@@ -1,0 +1,15 @@
+{
+  "name": "cf-proxy-ex",
+  "version": "0.0.1",
+  "description": "Cloudflare Workers Proxy",
+  "author": "j4go <https://github.com/j4go>",
+  "scripts": {
+    "lint:prettier": "prettier --write \"**/*.{js,cjs,ts,json,tsx,css,less,scss,vue,html,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  },
+  "engines": {
+    "node": ">=18.12.0"
+  }
+}
