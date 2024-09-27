@@ -1,3 +1,6 @@
+240926日fork后想添加package.json  使用cf page方式部署，失败了。
+
+
 <div align="center">
 <h1>Cloudflare Proxy EX</h1>
 
